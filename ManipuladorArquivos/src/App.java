@@ -13,7 +13,7 @@ public class App {
 		// ManipuladorArquivo.Leitor(path);
 		// sc.close();
 
-		ManipuladorArquivo.Leitor("Fallout.txt");
-		//ManipuladorArquivo.Escritor("file.txt");
+		// ManipuladorArquivo.Leitor("Fallout.txt");
+		ManipuladorArquivo.Leitor("file.txt");
     }
 }
